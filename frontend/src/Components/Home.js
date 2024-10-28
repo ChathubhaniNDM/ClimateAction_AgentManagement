@@ -198,8 +198,8 @@ function Home() {
           <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/phone.png" /></div>
           <div class="contact-info">
             <h1>Phone</h1>
-            <h2>+94 112 236 1234</h2>
-            <h2>+94 112 226 1235</h2>
+            <h2>+94 112 236 1235</h2>
+            <h2>+94 112 226 1236</h2>
           </div>
         </div>
         <div class="contact-item">
